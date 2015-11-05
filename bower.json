@@ -1,4 +1,7 @@
 {
   "name": "history.js",
-  "version": "1.8.0"
+  "version": "1.8.0",
+  "main" : [
+      "scripts/bundled/html4+html5/jquery.history.js"
+    ]
 }
